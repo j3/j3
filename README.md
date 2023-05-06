@@ -5,5 +5,3 @@ I’m ██████████ █████ (Søik RS), a ██ years 
 - ⚙️ Always learning Rust, Python, Php, CSS and JavaScript
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=soikrs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-Thanks for being the ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoikRs.SoikRs) on my GitHub profile.
